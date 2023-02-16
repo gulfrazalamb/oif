@@ -10,3 +10,16 @@ chmod +x 777 or chmod +x *
 then move it to /usr/bin/ directory
 for ex - 
 sudo mv oif /usr/bin/
+
+after that to use this tool 
+you can give commands like this - > 
+
+oif your_file_which_contains_multiple_urls
+
+it'll open in firefox 
+
+your file must have urls like this
+
+https://www.example1.com
+https://www.example2.com
+https//www.example3.com
